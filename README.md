@@ -13,7 +13,7 @@ _a collection of references for GIS Interns_
 
 **map school** http://macwright.org/mapschool/ _a free open introduction to geo_  
 
-**geo-how-to** https://github.com/nvkelso/geo-how-to/wiki _tips and tricks here are oriented to BYOD (bring your down data) mapping_
+**geo-how-to** https://github.com/nvkelso/geo-how-to/wiki _tips and tricks here are oriented to BYOD (bring your own data) mapping_
 
 **geojson.io** https://github.com/mapbox/geojson.io _fast, simple map creation_ 
 http://geojson.io/
